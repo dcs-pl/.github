@@ -19,7 +19,7 @@ We also provide tailor-made services to small and medium-sized enterprises which
 <p>For more information visit our website: <a href="https://dcs.pl/en/" target="_blank">https://dcs.pl/en/</a></p>
 
 <p align="center">
-  <img width="460" height="300" src="https://dcs.pl/media/filer_public/27/ec/27ec11ab-23a5-4f52-a801-fb481059e332/intranet.svg">
+  <img width="460" height="300" alt=" "src="https://dcs.pl/media/filer_public/87/08/8708682a-e8aa-4322-9e7a-cc745937fb3a/dcs_img.svg" />
 </p>
 
 
