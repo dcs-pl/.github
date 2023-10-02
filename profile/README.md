@@ -1,4 +1,4 @@
-<img src="https://dcs.pl/media/filer_public/81/4e/814ef5f3-786b-4a3f-8c56-e209996ffefd/dcs_logo.png" alt="dcs.pl" />
+<img src="https://dcs.pl/media/filer_public/b7/98/b798dc5c-a20f-429c-bb6d-ccb6fdacdd51/dcs_logo.png" alt="dcs.pl" />
 
 # 🤓 Who we are?
 
