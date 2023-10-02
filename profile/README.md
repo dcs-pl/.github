@@ -16,10 +16,12 @@ We also provide tailor-made services to small and medium-sized enterprises which
 - A talented and professional team of software engineers
 - An experienced IT services maintenance team
 
+<p>For more information visit our website: <a href="https://dcs.pl/en/" target="_blank">https://dcs.pl/en/</a></p>
 
 <p align="center">
   <img width="460" height="300" src="https://dcs.pl/media/filer_public/27/ec/27ec11ab-23a5-4f52-a801-fb481059e332/intranet.svg">
 </p>
+
 
 
 <!--
