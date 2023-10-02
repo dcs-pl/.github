@@ -1,10 +1,10 @@
-# Who we are?
+# 🤓 Who we are?
 
 An outstanding company operating in the IT industry since 1995. We create a recognizable brand, offering products and providing IT services perfectly tailored to the specific needs of each customer. We specialize in complex development, implementation, deployment, hosting and service projects for large, demanding customers.
 
 We also provide tailor-made services to small and medium-sized enterprises which often need advice on product and technology selection. We focus on what is important for our customers: professionalism, efficiency and flexibility.
 
-## 7 major reasons why you should cooperate with dcs.pl
+## 🤜 7 major reasons why you should cooperate with dcs.pl
 
 - Experience in implementing advanced IT systems that solve complex problems
 - Focus on meeting customer business needs
