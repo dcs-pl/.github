@@ -1,4 +1,4 @@
-# Who we are ?
+# Who we are?
 
 An outstanding company operating in the IT industry since 1995. We create a recognizable brand, offering products and providing IT services perfectly tailored to the specific needs of each customer. We specialize in complex development, implementation, deployment, hosting and service projects for large, demanding customers.
 
