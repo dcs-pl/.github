@@ -1,6 +1,10 @@
+
+
 <img align="right" src="https://dcs.pl/media/filer_public/b7/98/b798dc5c-a20f-429c-bb6d-ccb6fdacdd51/dcs_logo.png" alt="dcs.pl" width="230" /><br/><br/><br/>
 
 ## `🤓 Who we are?`
+
+
 
 An outstanding company operating in the IT industry since 1995. We create a recognizable brand, offering products and providing IT services perfectly tailored to the specific needs of each customer. We specialize in complex development, implementation, deployment, hosting and service projects for large, demanding customers.
 
