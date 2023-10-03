@@ -1,12 +1,12 @@
 <img align="right" src="https://dcs.pl/media/filer_public/b7/98/b798dc5c-a20f-429c-bb6d-ccb6fdacdd51/dcs_logo.png" alt="dcs.pl" width="230" /><br/><br/><br/>
 
-<h2>🤓 Who we are?</h2>
+## `🤓 Who we are?`
 
 An outstanding company operating in the IT industry since 1995. We create a recognizable brand, offering products and providing IT services perfectly tailored to the specific needs of each customer. We specialize in complex development, implementation, deployment, hosting and service projects for large, demanding customers.
 
 We also provide tailor-made services to small and medium-sized enterprises which often need advice on product and technology selection. We focus on what is important for our customers: professionalism, efficiency and flexibility.
 
-<h2>🤜 7 major reasons why you should cooperate with dcs.pl</h2>
+## `🤜 7 major reasons why you should cooperate with dcs.pl`
 
 - Experience in implementing advanced IT systems that solve complex problems
 - Focus on meeting customer business needs
@@ -15,6 +15,7 @@ We also provide tailor-made services to small and medium-sized enterprises which
 - Ability to provide services in models tailored to customer requirements
 - A talented and professional team of software engineers
 - An experienced IT services maintenance team
+---
 
 <p>For more information visit our website: <a href="https://dcs.pl/en/" target="_blank">https://dcs.pl/en/</a></p>
 
